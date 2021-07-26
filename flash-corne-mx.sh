@@ -2,7 +2,7 @@
 
 set -x
 
-keymap="${1:-soundmonster}"
+keymap="${1:-asavoy}"
 
 make crkbd:$keymap:avrdude
 
