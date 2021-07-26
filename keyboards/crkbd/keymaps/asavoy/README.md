@@ -1,6 +1,11 @@
-# Soundmonster's layout for Corne
+# asavoy
 
-Features:
+Notes:
+
+* Based on upstream/master from July 2020 because OLED behavior works best here. Otherwise the slave OLED has weird behavior: turns off, half-freezes, or displays out-of-sync with master OLED.
+
+
+Features from soundmonster:
 
 * Modern OLED support (many thanks to @drashna):
   * Proper orientation
