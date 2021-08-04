@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "",
+  "notes": "My awesome keymap",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "crkbd/rev1",
   "keymap": "asavoy-corne-mx",
@@ -64,11 +64,11 @@
       "KC_GT",
       "KC_BSPC",
       "KC_NO",
-      "LSFT_T(KC_EXLM)",
-      "LCTL_T(KC_AT)",
-      "LALT_T(KC_HASH)",
-      "LGUI_T(KC_DLR)",
-      "KC_PERC",
+      "KC_LSFT",
+      "KC_LCTL",
+      "KC_LALT",
+      "KC_LGUI",
+      "KC_NO",
       "KC_LCBR",
       "KC_LPRN",
       "KC_COLN",
@@ -76,11 +76,11 @@
       "KC_RCBR",
       "KC_UNDS",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "KC_EXLM",
+      "KC_AT",
+      "KC_HASH",
+      "KC_DLR",
+      "KC_PERC",
       "KC_PIPE",
       "KC_AMPR",
       "KC_ASTR",
@@ -271,5 +271,5 @@
       "KC_NO"
     ]
   ],
-  "author": ""
+  "author": "asavoy-corne-mx"
 }
