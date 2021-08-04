@@ -63,7 +63,7 @@
       "KC_RBRC",
       "KC_GT",
       "KC_BSPC",
-      "KC_NO",
+      "KC_GRV",
       "KC_LSFT",
       "KC_LCTL",
       "KC_LALT",
@@ -86,7 +86,7 @@
       "KC_ASTR",
       "KC_PPLS",
       "KC_PMNS",
-      "KC_GRV",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -271,5 +271,5 @@
       "KC_NO"
     ]
   ],
-  "author": "asavoy-corne-mx"
+  "author": "Anonymous"
 }
