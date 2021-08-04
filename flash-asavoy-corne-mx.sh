@@ -2,7 +2,7 @@
 
 set -x
 
-keymap="${1:-asavoy}"
+keymap="${1:-asavoy-corne-mx}"
 
 make crkbd:$keymap:avrdude
 
