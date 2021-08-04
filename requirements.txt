@@ -1,5 +1,7 @@
 # Python requirements
 # milc FIXME(skullydazed): Included in the repo for now.
+qmk==0.0.36  # asavoy: need an older version of qmk to be compatible with crkbd and milc
+milc==1.2.1  # asavoy: versions later than 1.2.1 break with this old version of qmk_firmware
 appdirs
 argcomplete
 colorama
