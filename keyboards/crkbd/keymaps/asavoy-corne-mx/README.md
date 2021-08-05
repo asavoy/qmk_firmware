@@ -2,6 +2,7 @@
 
 TODOs:
 
+* Numpad keys should be number row keys instead, because shortcuts tend to only work against those.
 * One-handed cmd-c cmd-v because faster when using mouse; although it is doable with just left-hand as-is...
 * Roll over on 'as' when typing 'master' or 'as' quickly can trigger as shift-s
 * Layer fixes
