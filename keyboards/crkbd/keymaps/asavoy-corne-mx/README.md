@@ -9,6 +9,16 @@ TODOs:
   * Confusing order; fn-layer is on layer 2 but should be later since it is rare to use. So swap layer 2 and layer 4.
 * OLEDs don't work
 
+Edit workflow:
+
+* Load QMK Configurator
+  * https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3
+  * import asavoy-corne-mx.json from this repo
+* Make changes
+* Export as name asavoy-corne-mx.json
+* Print -> Save as PDF named asavoy-corne-mx.pdf
+* Run `./pull-asavoy-corne-mx.sh && ./json-to-asavoy-corne-mx.sh && ./flash-asavoy-corne-mx.sh`
+
 Notes:
 
 * Based on upstream/master from July 2020 because OLED behavior works best here. Otherwise the slave OLED has weird behavior: turns off, half-freezes, or displays out-of-sync with master OLED.
