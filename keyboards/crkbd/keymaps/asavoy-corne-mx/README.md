@@ -3,10 +3,7 @@
 TODOs:
 
 * One-handed cmd-c cmd-v because faster when using mouse; although it is doable with just left-hand as-is...
-* Cmd-shift +,- (zoom controls) aren't possible, make this happen on numpad layer.
-* Backtick cannot be on LHS symbol layer, because LHS symbol layer cannot be (reliably) chord with right-cmd.
 * Roll over on 'as' when typing 'master' or 'as' quickly can trigger as shift-s
-* It's a bit awkward typing - which is more common than +
 * Layer fixes
   * Cannot access the adjust layer. Access with 2 outer thumbs.
   * Confusing order; fn-layer is on layer 2 but should be later since it is rare to use. So swap layer 2 and layer 4.
