@@ -4,7 +4,6 @@ TODOs:
 
 * One-handed cmd-c cmd-v because faster when using mouse; although it is doable with just left-hand as-is...
 * Roll over on 'as' when typing 'master' or 'as' quickly can trigger as shift-s
-  * Try increase tap term to 200
   * Try the fix to block modifiers for same-hand combos (rollovers): http://thedarnedestthing.com/rolling%20qmk%20modifiers
     * On second thoughts, I am often using modifiers from the same hand. It's very important for copy/paste quickly while using the mouse
 * Consider adding combos to LHS for undo/redo/cut/copy/paste to improve when using the mouse
