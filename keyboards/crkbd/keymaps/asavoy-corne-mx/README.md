@@ -4,6 +4,15 @@ TODOs:
 
 * One-handed cmd-c cmd-v because faster when using mouse; although it is doable with just left-hand as-is...
 * Roll over on 'as' when typing 'master' or 'as' quickly can trigger as shift-s
+  * Try increase tap term to 200
+  * Try the fix to block modifiers for same-hand combos (rollovers): http://thedarnedestthing.com/rolling%20qmk%20modifiers
+    * On second thoughts, I am often using modifiers from the same hand. It's very important for copy/paste quickly while using the mouse
+* Consider adding combos to LHS for undo/redo/cut/copy/paste to improve when using the mouse
+* Remove retro tap, I don't use it and it unintentionally triggers when cmd-clicking
+* Remove default shift and replace with tilde, to learn home row shift and to improve cmd-~
+* Add windowing combos like https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
+* Add a diagram like spaceship or https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
+* Can add new layers as layer taps on alphas
 * Layer fixes
   * Cannot access the adjust layer. Access with 2 outer thumbs.
   * Confusing order; fn-layer is on layer 2 but should be later since it is rare to use. So swap layer 2 and layer 4.
