@@ -9,8 +9,6 @@ TODOs:
 * Add windowing combos like https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
 * Add a diagram like spaceship or https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
 * Can add new layers as layer taps on alphas
-* Layer fixes
-  * Cannot access the adjust layer. Access with 2 outer thumbs.
 * OLEDs don't work
 
 Edit workflow:
