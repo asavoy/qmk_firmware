@@ -10,6 +10,7 @@ TODOs:
 * Add a diagram like spaceship or https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
 * Can add new layers as layer taps on alphas
 * OLEDs don't work
+* Cmd-tab combo only swaps windows because it doesn't hold cmd between taps
 
 Edit workflow:
 
