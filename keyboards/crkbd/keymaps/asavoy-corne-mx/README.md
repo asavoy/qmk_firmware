@@ -23,6 +23,7 @@ Edit workflow:
 * Export as name asavoy-corne-mx.json
 * Print -> Save as PDF named asavoy-corne-mx.pdf
 * Run `./pull-asavoy-corne-mx.sh && ./json-to-asavoy-corne-mx.sh && ./flash-asavoy-corne-mx.sh`
+* Git commit with a descriptive message and rationale
 
 Notes:
 
