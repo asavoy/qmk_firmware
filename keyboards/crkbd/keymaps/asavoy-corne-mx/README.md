@@ -6,6 +6,7 @@ TODOs:
 * Roll over on 'as' when typing 'master' or 'as' quickly can trigger as shift-s
   * Try the fix to block modifiers for same-hand combos (rollovers): http://thedarnedestthing.com/rolling%20qmk%20modifiers
     * On second thoughts, I am often using modifiers from the same hand. It's very important for copy/paste quickly while using the mouse
+* Restore left shift and backtick but support cmd-~ combo
 * Add windowing combos like https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
 * Add a diagram like spaceship or https://media.discordapp.net/attachments/819487090521407508/876071764994715678/image0.png
 * Can add new layers as layer taps on alphas
