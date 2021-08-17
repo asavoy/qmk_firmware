@@ -11,7 +11,6 @@ TODOs:
 * Can add new layers as layer taps on alphas
 * Layer fixes
   * Cannot access the adjust layer. Access with 2 outer thumbs.
-  * Confusing order; fn-layer is on layer 2 but should be later since it is rare to use. So swap layer 2 and layer 4.
 * OLEDs don't work
 
 Edit workflow:
