@@ -11,7 +11,6 @@ TODOs:
 * Can add new layers as layer taps on alphas
 * OLEDs don't work
 * Cmd-tab combo only swaps windows because it doesn't hold cmd between taps
-* Move numpad zero over, to be easier to access, especially when typing quickly
 
 Edit workflow:
 
