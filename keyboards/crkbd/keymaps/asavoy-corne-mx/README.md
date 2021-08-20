@@ -11,6 +11,9 @@ TODOs:
 * Can add new layers as layer taps on alphas
 * OLEDs don't work
 * Cmd-tab combo only swaps windows because it doesn't hold cmd between taps
+* Have space + enter available on all layers
+* Move numpad - to same place as base layer, for consistency and faster date typing
+* Fix media keys don't work
 
 Edit workflow:
 
